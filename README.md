@@ -1,4 +1,4 @@
-# Training-free Special Reasoning Enhancement
+# Training-free Spatial Reasoning Enhancement
 
 ## CVPR 2026
 
